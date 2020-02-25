@@ -21,4 +21,7 @@
   , "main": "socks.js"
   , "dependencies": {
   }
+    ,"scripts":{
+        "start":"node proxy.js"
+    }
 }
